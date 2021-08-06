@@ -16,9 +16,11 @@ const AddTransaction = () => {
             text: text,
             amount: +amount
         }
+        
+        setText('');
+        setAmount(0);
 
         addTransaction(newTransaction);
-        console.log(e)
     };
 
 

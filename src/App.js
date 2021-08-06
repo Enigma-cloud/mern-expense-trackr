@@ -10,7 +10,6 @@ import { GlobalProvider } from './context/GlobalState';
 
 function App() {
 
-  // Toggle Add New Transaction
   const [showAdd, setShowAdd] = useState(false);
 
   return (
