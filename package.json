@@ -1,6 +1,6 @@
 {
   "name": "react-expense-tracker",
-  "homepage": "https://enigma-cloud.github.io/react-expense-tracker",
+  "homepage": "https://enigma-cloud.github.io/mern-expense-trackr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
