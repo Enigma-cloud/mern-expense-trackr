@@ -12,7 +12,7 @@ An expense tracker web application.
   - [Heroku](https://www.heroku.com/)
 
 ## Usage
-To view the demo, please visti this [link](https://github.com/bradtraversy). <br/>
+To view the demo, please visit this [link](https://github.com/bradtraversy). <br/>
 To visit the latest live version of the app, go to this [link](https://mern-expense-trackr.herokuapp.com/).
 
 ## Acknowledgements
